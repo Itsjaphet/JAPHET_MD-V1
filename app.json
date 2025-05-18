@@ -1,6 +1,6 @@
 {
-  "name": "DARK-SILENCE-MD",
-  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
+  "name": "𝐉𝐀𝐏𝐇𝐄𝐓-𝐌𝐃 𝐕1",
+  "description": "𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐉𝐀𝐏𝐇𝐄𝐓𝐓𝐄𝐂𝐇 ♥️",
   "logo": "https://files.catbox.moe/9vg76j",
   "keywords": ["bot"],
   "success_url": "/",
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/9vg76j"
+      "value": "https://files.catbox.moe/j4mnuu"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
+      "value": "𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐓'𝐒 𝐌𝐄 𝐉𝐀𝐏𝐇𝐄𝐓-𝐌𝐃 𝐕1 𝐈'𝐌 𝐀𝐋𝐈𝐕𝐄😊.!!"
     },
     
     "PREFIX": {
@@ -39,19 +39,19 @@
 
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
@@ -63,7 +63,7 @@
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
+      "required": false,
       "value": "true"
     },
 
@@ -76,12 +76,12 @@
     "ANTI_DEL_PATH": {
       "description": "type here log if you want detected antidelete in conn.id.",
       "required": false,
-      "value": "same"
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
-      "required": true,
+      "required": false,
       "value": "false"
     },
 
