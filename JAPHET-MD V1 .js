@@ -37,7 +37,7 @@ class AudioConverter {
                 ], { timeout: 30000 });
 
                 let errorOutput = '';
-                ffmpeg.stderr.on('data', (data) => errorOutput += data.toString());
+                ffmpeg.stiderr.on('data', (data) => errorOutput += data.toString());
 
                 ffmpeg.on('close', async (code) => {
                     await this.cleanFile(inputPath);
