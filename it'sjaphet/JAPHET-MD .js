@@ -7,7 +7,7 @@ const ffmpeg = require('fluent-ffmpeg');
 // Set ffmpeg path
 ffmpeg.setFfmpegPath(ffmpegPath);
 
-class StickerConverter {
+class StickerConvert {
     constructor() {
         this.tempDir = path.join(__dirname, '../temp');
         this.ensureTempDir();
