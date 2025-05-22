@@ -51,4 +51,4 @@ class StickerConverter {
     }
 }
 
-module.exports = new StickerConverter(u);
+module.exports = new StickerConverter();
