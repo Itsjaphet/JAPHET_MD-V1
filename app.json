@@ -40,7 +40,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
@@ -52,7 +52,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -94,7 +94,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦∂αяк-sιℓεηcε-м∂✦"
+      "value": "✦JAPHET-MD V1✦"
     }, 
 
     "HEART_REACT": {
@@ -112,13 +112,13 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY JAPHETTECH"
     }, 
     
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү ∂αяк-sιℓεηcε-м∂"
+      "value": "YOUR STATUS SEEN BY JAPHET-MD V1 "
     },
     
     "AUTO_REPLY_STATUS": {
@@ -160,13 +160,13 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "255613914546"
     }, 
 
      "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "JAPHETTECH"
      }
 },
 
