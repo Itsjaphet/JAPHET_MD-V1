@@ -1,12 +1,12 @@
 {
-  "name": "DARK-SILENCE-MD",
+  "name": "JAPHET-MD V1",
   "version": "1.0.3",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DARK-SILENCE-MD",
-    "stop": "pm2 stop DARK-SILENCE-MD",
-    "restart": "pm2 restart DARK-SILENCE-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name JAPHET-MD V1",
+    "stop": "pm2 stop JAPHET-MD V1",
+    "restart": "pm2 restart JAPHET-MD V1 "
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
