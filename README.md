@@ -11,20 +11,20 @@
 
 -----------
 
-### <br>  ❖ DARK-SILENCE-MD ❖
-**`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY DARK-SILENCE-MD 🩶`**
+### <br>  ❖ 𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗 𝗩1 ❖
+**`𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗟𝗜𝗡𝗞 🔗 𝗙𝗢𝗥 𝗢𝗧𝗛𝗘𝗥 🍽️ 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠𝗦 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗 𝗩1 🩶`**
 
 ```
-https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+https://github.com/itsjaphet/JAPHET_MD-V1
 ```
 ---
 
-> **DARK-SILENCE-MD VERSION ➜ `3.0.1 ♻️`**
+> **𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗 𝗩1 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 ➜ `3.0.1 ♻️`**
 ---
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DARK-SILENCE-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SILENTLOVER432;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗-𝗠𝗗 𝗩1;+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗕𝗢𝗧;𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘+𝗦𝗨𝗣𝗣𝗢𝗥𝗧;𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗝𝗔𝗣𝗛𝗘𝗧𝗧𝗘𝗖𝗛;𝗙𝗔𝗦𝗧++𝗦𝗘𝗖𝗨𝗥𝗘++𝗥𝗘𝗟𝗜𝗔𝗕𝗟𝗘" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
