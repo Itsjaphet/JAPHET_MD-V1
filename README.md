@@ -2,7 +2,7 @@
 
 -----------
 
-![Image](https://github.com/catbox.moe/m5t7xl)
+![Image](https://github.com/https://files.catbox.moe/m5t7xl)
 
 -----------
 -----------
