@@ -196,15 +196,15 @@ jobs:
 ## <h2 align="left">⚠️ REMINDER </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- **WARNING:** DARK-SILENCE-MD IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- **WARNING:** 🄹🄰🄿🄷🄴🅃 🄼🄳 🅅1 IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
 - MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING DARK-SILENCE-MD ❤️.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR 𝗨𝗦𝗜𝗡𝗚 𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗 𝗩1 ❤️.
 
 ---
 
 <h2 align="left">ℹ️ NOTICE</h2>
 <p style="text-align: center; font-size: 1.2em;">
- NOT FOR SALE - IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM. PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD!</p>
+ 🅽🅾🆃 🅵🅾🆁 🆂🅰🅻🅴 - 🅸🅵 🅰🅽🆈 🅿🅻🆄🅶🅸🅽'🆂 🅲🅾🅳🅴 🅸🆂 🅾🅱🅵🆄🆂🅲🅰🆃🅴🅳, 🆈🅾🆄 🅳🅾 🅽🅾🆃 🅷🅰🆅🅴 🅿🅴🆁🅼🅸🆂🆂🅸🅾🅽 🆃🅾 🅴🅳🅸🆃 🅸🆃 🅸🅽 🅰🅽🆈 🅵🅾🆁🅼. 🅿🅻🅴🅰🆂🅴 🆁🅴🅼🅴🅼🅱🅴🆁 🆃🅾 🅶🅸🆅🅴 🅲🆁🅴🅳🅸🆃 🅸🅵 🆈🅾🆄 🅰🆁🅴 🆄🆂🅸🅽🅶 🅾🆁 🆁🅴-🆄🅿🅻🅾🅰🅳🅸🅽🅶 🅼🆈 🅿🅻🆄🅶🅸🅽🆂/🅵🅸🅻🅴🆂 🆆🅸🆂🅷🅸🅽🅶 🆈🅾🆄 🅰 🆆🅾🅽🅳🅴🆁🅵🆄🅻 🅳🅰🆈 🅰🅷🅴🅰🅳!</p>
   
 ---
 
@@ -214,7 +214,7 @@ jobs:
  
  ---
 
-<h3 align="center"> DON'T USE DARK-SILENCE-MD SCRIPT WITHOUT PERMISSION OF © SILENT LOVER⁴³²
+<h3 align="center"> DON'T USE 𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗 𝗩1 SCRIPT WITHOUT PERMISSION OF © 𝗝𝗔𝗣𝗛𝗘𝗧𝗧𝗘𝗖𝗛
 </h3>
 
 <br>
