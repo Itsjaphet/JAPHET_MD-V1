@@ -104,11 +104,7 @@ https://github.com/Itsjaphet/JAPHET-MD V1
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Itsjaphet/JAPHET_MD-V1" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="" target="_blank"><img src=""/></a></td>
-      <td><a >
-      <td><a"/></a></td>
-    </tr>
-  </table>
+      <td><a 
 </div>
 
 <table align="center">
