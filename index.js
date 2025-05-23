@@ -135,7 +135,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
 
 ╭─ 「 *[ •  B O T  - R E P O ‎ • ]* 」
 ┊  ╭───────────❂
-┊📄┊ *https://github.com/Itsjaphet/JAPHET_MD V1*
+┊📄┊ *https://github.com/Itsjaphet/JAPHET_MD-V1*
 ┊  ╰──────────❂
 ╰─────────────❂
 *JAPHET-MD V1 ACTIVE NOW!♻️*\n\n*YOUR-PREFIX: [${prefix}]*
