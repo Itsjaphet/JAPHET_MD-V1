@@ -36,12 +36,12 @@ https://github.com/Itsjaphet/JAPHET-MD V1
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARK-SILENCE-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=JAPHET-MD V1&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+DARK-SILENCE-MD;IS+THE+UPDATE+VERSION;OF+SILENT-SOBX-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+SILENTLOVER+432" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+JAPHET-MD V1;IS+THE+UPDATE+VERSION;OF+JAPHET-MD V1;BEST+MULTI+DEVICE+BOT;CREATED+BY+JAPHETTECH" alt="Typing SVG" /></a>
   </p>
   
 
@@ -56,17 +56,17 @@ https://github.com/Itsjaphet/JAPHET-MD V1
 
 ----------
 
-### <br>01.  ❖ FORK DARK-SILENCE-MD ❖
+### <br>01.  ❖ FORK JAPHET-MD V1 ❖
 
 -----------
 
-**`FORK 🍴 AND STAR ⭐ DARK-SILENCE-MD`**
+**`FORK 🍴 AND STAR ⭐ JAPHET-MD V1`**
 
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/It'sjaphet/JAPHET-MD V1/fork"><img title="JAPHET-MD V1" src="https://img.shields.io/badge/FORK JAPHET%20MD%20V1-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ GET SESSION-I'D ❖
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92309xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:255613914546 THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
 > **1. PAIR CODE SESSION ID**
@@ -93,7 +93,7 @@ https://github.com/Itsjaphet/JAPHET-MD V1
 
 ---
 
-### <h2 align="">❖ DARK-SILENCE-MD DEPLOYMENT OPTIONS ❖</h2>
+### <h2 align="">❖ JAPHET-MD V1 DEPLOYMENT OPTION ❖</h2>
 
 ---
 
@@ -103,12 +103,12 @@ https://github.com/Itsjaphet/JAPHET-MD V1
 
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/DARKSILENCE04/DARK-SILENCE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Itsjaphet/JAPHET_MD-V1" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="" target="_blank"><img src=""/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=DARKSILENCE04/DARK-SILENCE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="" target="_blank"><img src=""/></a></td>
+      <td><a href="="_blank"><img src=""/></a></td>
     </tr>
     <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
@@ -120,7 +120,7 @@ https://github.com/Itsjaphet/JAPHET-MD V1
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s/3616" target="_blank">
+      <a href="" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
@@ -133,7 +133,7 @@ https://github.com/Itsjaphet/JAPHET-MD V1
 
 -------------
 
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF DARK-SILENCE-MD ✠***
+**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF JAPHET-MD V1 ✠***
 
 ```
 name: Node.js CI
@@ -175,18 +175,18 @@ jobs:
 
 
 ## 👑 ✠ PROJECT OWNER ✠
-`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡SILENT LOVER⁴³²࿐➺`
+`HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ♡JAPHETTECH`
 
 <p align="">
-<a href='https://wa.me/+923096287432?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+DARK-SILENCE+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+255613914546?text=*HII+SIR+I+NEED+HELP!.+I'VE+MSG+YOU+FROM+JAPHET-MD V1!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## ⚖️ ✠ SUPPORT CHANNEL ✠
-`✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF DARK-SILENCE-MD BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
+`✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF JAPHET-MD V1 BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
 
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s)
+[![WhatsApp Channel]()
 
 ---------
 
@@ -196,9 +196,9 @@ jobs:
 ## <h2 align="left">⚠️ REMINDER </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- **WARNING:** DARK-SILENCE-MD IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
+- **WARNING:** JAPHET-MD V1 IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
 - MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING DARK-SILENCE-MD ❤️.
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING JAPHET-MD V1 ❤️.
 
 ---
 
@@ -214,13 +214,13 @@ jobs:
  
  ---
 
-<h3 align="center"> DON'T USE DARK-SILENCE-MD SCRIPT WITHOUT PERMISSION OF © SILENT LOVER⁴³²
+<h3 align="center"> DON'T USE JAPHET-MD V1 SCRIPT WITHOUT PERMISSION OF © JAPHETTECH 
 </h3>
 
 <br>
 
 ```
-THANKS TO DARKDEVIL,SOBIABUTT,SILENTKILLER,NOTHING,SPECIAL THANKS 😊 CYBER,X TEAM FOR SCRIPT❤️
+THANKS TO ANYWAY,SOBIABUTT,TIMNASA_TMD2,NOTHING,SPECIAL THANKS 😊 MR ANYWAY-MD,X TEAM FOR SCRIPT❤️
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
