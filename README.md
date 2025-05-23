@@ -105,12 +105,6 @@ https://github.com/Itsjaphet/JAPHET-MD V1
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Itsjaphet/JAPHET_MD-V1" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="" target="_blank"><img src=""/></a></td>
-    </tr>
-    <tr>
-      <td><a href="" target="_blank"><img src=""/></a></td>
-      <td><a href="="_blank"><img src=""/></a></td>
-    </tr>
-    <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
