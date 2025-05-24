@@ -28,11 +28,11 @@ https://github.com/itsjaphet/JAPHET_MD-V1
 </p>
 
 <div align="center">
-  <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/itsjaphet/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/itsjaphet/JAPHET_MD-V1"><img title="Stars" src="https://img.shields.io/github/stars/itsjaphetJAPHET_MD-V1?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-SILENTLOVER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/itsjaphet/JAPHET_MD-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itsjaphet/JAPHET_MD-V1?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/itsjaphet/JAPHET_MD-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/itsjaphet/JAPHET_MD-V1?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/itsjaphet/JAPHET_MD-V1/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-JAPHETTECH-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
@@ -62,7 +62,7 @@ https://github.com/itsjaphet/JAPHET_MD-V1
 
 **`𝗙𝗢𝗥𝗞 🍴 𝗔𝗡𝗗 𝗦𝗧𝗔𝗥 ⭐ 𝗝𝗔𝗣𝗛𝗘𝗧-𝗠𝗗 𝗩1**
 
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-JAPHET%20MD%20V1-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 ❖
 
@@ -103,7 +103,7 @@ https://github.com/itsjaphet/JAPHET_MD-V1
 
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/DARKSILENCE04/DARK-SILENCE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/itsjaphet/JAPHET_MD-V1" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -204,8 +204,7 @@ jobs:
 
 <h2 align="left">ℹ️ NOTICE</h2>
 <p style="text-align: center; font-size: 1.2em;">
- 𝗡𝗢𝗧 𝗙𝗢𝗥 𝗦𝗔𝗟𝗘 - 𝗔𝗡𝗬 𝗣𝗟𝗨𝗚𝗜𝗡'𝗦 𝗖𝗢𝗗𝗘 𝗜𝗦 𝗢𝗕𝗙𝗨𝗦𝗖𝗔𝗧𝗘𝗗 𝗬𝗢𝗨 𝗗𝗢 𝗡𝗢𝗧 𝗛𝗔𝗩𝗘 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗧𝗢 𝗘𝗗𝗜𝗧 𝗜𝗧 𝗜𝗡 𝗔𝗡𝗬 𝗙𝗢𝗥𝗠, 𝗣𝗟𝗘𝗔𝗦𝗘 𝗥𝗘𝗠𝗘𝗠𝗕𝗘𝗥 𝗧𝗢 𝗚𝗜𝗩𝗘 𝗖𝗥𝗘𝗗𝗜𝗧 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗢𝗥 𝗥𝗘 𝗨𝗣𝗟𝗢𝗔𝗗𝗜𝗡𝗚𝗠𝗬 𝗣𝗟𝗨𝗚𝗜𝗡𝗦/𝗙𝗜𝗟𝗘𝗦 
-  𝗪𝗜𝗦𝗛𝗜𝗡𝗚 𝗬𝗢𝗨 𝗔 𝗪𝗢𝗡𝗗𝗘𝗥𝗙𝗨𝗟 𝗗𝗔𝗬 𝗔𝗛𝗘𝗔𝗗!</p>
+ 𝗡𝗢𝗧 𝗙𝗢𝗥 𝗦𝗔𝗟𝗘 - 𝗔𝗡𝗬 𝗣𝗟𝗨𝗚𝗜𝗡'𝗦 𝗖𝗢𝗗𝗘 𝗜𝗦 𝗢𝗕𝗙𝗨𝗦𝗖𝗔𝗧𝗘𝗗 𝗬𝗢𝗨 𝗗𝗢 𝗡𝗢𝗧 𝗛𝗔𝗩𝗘 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗧𝗢 𝗘𝗗𝗜𝗧 𝗜𝗧 𝗜𝗡 𝗔𝗡𝗬 𝗙𝗢𝗥𝗠, 𝗣𝗟𝗘𝗔𝗦𝗘 𝗥𝗘𝗠𝗘𝗠𝗕𝗘𝗥 𝗧𝗢 𝗚𝗜𝗩𝗘 𝗖𝗥𝗘𝗗𝗜𝗧 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘 𝗨𝗦𝗜𝗡𝗚 𝗢𝗥 𝗥𝗘 𝗨𝗣𝗟𝗢𝗔𝗗𝗜𝗡𝗚𝗠𝗬 𝗣𝗟𝗨𝗚𝗜𝗡𝗦/𝗙𝗜𝗟𝗘𝗦 𝗪𝗜𝗦𝗛𝗜𝗡𝗚 𝗬𝗢𝗨 𝗔 𝗪𝗢𝗡𝗗𝗘𝗥𝗙𝗨𝗟 𝗗𝗔𝗬 𝗔𝗛𝗘𝗔𝗗!</p>
   
 ---
 
